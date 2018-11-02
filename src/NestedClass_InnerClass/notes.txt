@@ -1,0 +1,14 @@
+Différence entre NestedClass et InnerClass
+
+
+ Ce sont toutes deux des classes internes (à une autre classe)
+
+    Une NestedClass :
+     * peut être instanciée sans que sa classe parente soit instanciée.
+     * n'a pas accès aux propriétés de sa classe parente
+
+    Une InnerClass :
+     * est préfixé de Inner
+     * ne peut être instanciée qu'à partir d'une instance de sa classe parente
+     * a accès aux propriétés de sa classe parente (à l'intérieur de la classe)
+

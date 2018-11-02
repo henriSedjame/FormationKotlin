@@ -1,0 +1,15 @@
+Lateinit
+
+    ==> Initatiisation tardve d'une variable
+
+!!!--------------------------------------------- --CONDITIONS D'UTILISATION ------------------------------------------!!!
+
+    * ne s'utilise << que >> sur des variables membres d'une classe
+
+    * ne s'utilise << pas >> sur des paramètres de fonction
+    * ne s'applique << pas >> sur les variables du constructeur primaire de la classe
+    * ne s'applique << pas >> sur des types simples
+
+!!! ----------------------------------------------------------------------------------------------------------------- !!!
+
+                                        PENSEZ A INITIALISER SA VALEUR AVANT UTILISATION

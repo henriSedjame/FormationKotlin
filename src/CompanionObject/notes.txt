@@ -1,0 +1,5 @@
+ ------------- >>>>>>>> Remplace le mot clé static de java
+
+Un companion Object est commun à toutes les instances de la classe.
+
+Le companion Object contiendra donc les attribus et méthodes static de la classe.
