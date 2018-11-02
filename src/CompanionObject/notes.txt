@@ -1,4 +1,4 @@
- ------------- >>>>>>>> Remplace le mot clé static de java
+ ------------- >>>>>>>> Remplace le mot clé static de java <<<<<<<<<<<<< ---------------------
 
 Un companion Object est commun à toutes les instances de la classe.
 
