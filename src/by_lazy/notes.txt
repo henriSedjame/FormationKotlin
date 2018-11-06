@@ -1,0 +1,8 @@
+by lazy => permet d'initialiser tardivement une variable non null et final
+
+  val p : String by lazy {
+        "hello world"
+  }
+
+On aurait pu utiliser 'lateinit' , mais cela ne s'applique que sur des variables mutables (lateinit var p : String)
+et on est pas à l'abri d'un oubli d'initialisation.

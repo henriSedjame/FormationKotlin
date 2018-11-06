@@ -6,6 +6,8 @@ import dataClass.Photo
 import NestedClass_InnerClass.Bag
 import NestedClass_InnerClass.Car
 import java.lang.Exception
+import kotlin.properties.Delegates
+import kotlin.reflect.KProperty
 
 object Main {
 
@@ -54,7 +56,45 @@ object Main {
         //Companion Object
         val shot: Photo = Appareil.shot(femme, homme) // => La méthode shot() du companion Object s'utilise comme une méthode static en java
 
+        //Delegates
+
+        val p : String by lazy { "hello world" }
+
+        var del : String by Delegate()
+
+        var obs : String by Delegates.observable(""){
+            property, oldValue, newValue ->  println("$oldValue -> $newValue")
+        }
+
+        del = "nouvelle valeur déléuée"
+        println(del)
+
+        obs="nouvelle valeur observée"
+
+        println(obs)
+
+        // Unit
+
+        val unit : () -> Unit = {println("unit is called")}
+
+        unit()
 
     }
 
 }
+
+class Delegate {
+
+    operator fun getValue(ref:Any?, property : KProperty<*>):String {
+        return "$ref ... thank you for delegating ${property.name} to me"
+    }
+
+    operator fun setValue(ref:Any?, property : KProperty<*>, value:String){
+        println("$value has been assigned to ${property.name} in the class $ref")
+    }
+}
+
+
+
+
+

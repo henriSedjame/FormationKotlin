@@ -3,6 +3,21 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/Anno.kt">
           <value>
             <set />
@@ -29,6 +44,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/NestedClass_InnerClass/Car.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/by_lazy/notes.txt">
           <value>
             <set />
           </value>
@@ -104,6 +124,121 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/pack1/Person.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mythe_project_config/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mythe_project_config/config/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mythe_project_config/config/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../stream-rabbit-mq/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../structure/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../structure/src/main/java/org/mythe/structure/models/Utilisateur.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../structure/src/main/java/org/mythe/structure/models/connexion/ParametreConnexion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../structure/src/main/java/org/mythe/structure/models/connexion/UserRoles.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../structure/src/main/java/org/mythe/structure/models/proxy/connexion/ParametreConnexion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../structure/src/main/java/org/mythe/structure/models/proxy/connexion/UserCmd.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../structure/src/main/java/org/mythe/structure/services/MytheInterfaceServices.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../structure/src/main/java/org/mythe/structure/services/MytheServerServices.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../structure/src/main/java/org/mythe/structure/services/MytheServices.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../structure/src/main/java/org/mythe/structure/services/impl/MytheInterfaceServicesImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test/src/main/java/org/rabbit/demo/processor/MyProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test/src/main/java/org/rabbit/demo/producer/Producer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test/src/main/java/org/rabbit/demo/producer/ProducerMessageChannel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test/src/main/java/org/rabbit/demo/producer/ProducerSource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test/src/main/java/org/rabbit/demo/producer/ProducerSourceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../untitled/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../untitled/resources/application.conf">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../untitled/resources/logback.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../untitled/src/Application.kt">
           <value>
             <set />
           </value>
